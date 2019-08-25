@@ -1,2 +1,2 @@
 # bzoj.ac
-bzoj data!
+A place for bzoj data!
